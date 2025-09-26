@@ -163,6 +163,4 @@ Enhanced Version Only: After 10 rounds, a summary of the game series is displaye
 
 
 
-License
 
-This project is licensed under the MIT License.
